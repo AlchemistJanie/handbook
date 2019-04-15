@@ -9,7 +9,7 @@
 List of tests
 - [Developer](./tests/developer.md)
 
-### Interview
+### Interview Process
 
 Interview by video call or in real life is mandatory.
 
