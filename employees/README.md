@@ -11,7 +11,7 @@ List of tests
 
 ### Interview
 
-Interview by video call or in real life is mandatory.
+We will be doing interviews by video or in person.
 
 Goal of this interview:
 - Estimate if the candidate can fit in the team
