@@ -6,7 +6,7 @@
 
 ### Announcement
 
-#### Small announcement
+#### Minor announcements
 
 - Short post on [Telegram](https://t.me/mesg_community)
   - Description of the announcement
@@ -18,7 +18,7 @@
 - Short post on Linkedin
   - Description of the announcement
 
-#### Big announcement
+#### Major announcements
 
 - Illustration about this announcement
 - Blog post about this announcement
