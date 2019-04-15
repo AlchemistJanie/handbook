@@ -21,7 +21,7 @@ Goal of this interview:
 
 ### Remuneration
 
-After this interview a proposition is made to the candidate. Once both parts agreed on the remuneration, remuneration need to be written in [this document](https://docs.google.com/spreadsheets/d/1EsEL8jrlZ45d4cXODXSmeZOH7GQHZpmVX3gxJ1zSTpQ/edit#gid=0)
+After this interview a proposition is made to the candidate. Once both partiess agree on the remuneration, remuneration needs to be written in [this document](https://docs.google.com/spreadsheets/d/1EsEL8jrlZ45d4cXODXSmeZOH7GQHZpmVX3gxJ1zSTpQ/edit#gid=0)
 
 ### Contract
 
